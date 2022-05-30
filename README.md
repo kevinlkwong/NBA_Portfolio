@@ -15,5 +15,3 @@ Questions I tried to answer in my analysis:
 5.
 
 6.
-
-I set up a Postgres server on my personal computer and scrubbed the datasets prior to importing them. I removed all rows that included tm (team) = 'TOT'  I had trouble importing the datasets directly so I created the tables and imported the datasets in.
