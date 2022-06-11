@@ -1,17 +1,14 @@
 Portfolio Project - NBA 
 
-This is my first self-directed portfolio project, where I took a raw dataset containing data about the NBA from Kaggle and conducted an analysis on it with SQL and Tableau.
+This is my first self-directed portfolio project where I took a raw NBA dataset from Kaggle and conducted an analysis on it with SQL and Tableau.
 
 Questions I tried to answer in my analysis:
 
-1.
+1. Is the Western Conference that much better than the Eastern Conference?
 
-2.
+- Average Wins / Loss for each conferernce
+- Which conference wins more Championships
 
-3.
+2. How has the game changed over the last two decade?
 
-4.
-
-5.
-
-6.
+- Pace, Offensive Rating, Defensive Rating, 3PA/2PA distribution
