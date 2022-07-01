@@ -1,0 +1,686 @@
+"season","conference","team","w","l"
+"2000                                              ",EAST,Indiana Pacers                                    ,56.00000,26.00000
+"2000                                              ",EAST,Chicago Bulls                                     ,17.00000,65.00000
+"2000                                              ",EAST,Miami Heat                                        ,52.00000,30.00000
+"2000                                              ",EAST,Detroit Pistons                                   ,42.00000,40.00000
+"2000                                              ",EAST,Orlando Magic                                     ,41.00000,41.00000
+"2000                                              ",EAST,Brooklyn Nets                                     ,31.00000,51.00000
+"2000                                              ",EAST,Toronto Raptors                                   ,45.00000,37.00000
+"2000                                              ",EAST,Atlanta Hawks                                     ,28.00000,54.00000
+"2000                                              ",EAST,Charlotte Hornets                                 ,49.00000,33.00000
+"2000                                              ",EAST,Cleveland Cavaliers                               ,32.00000,50.00000
+"2000                                              ",EAST,Philadelphia 76ers                                ,49.00000,33.00000
+"2000                                              ",EAST,Boston Celtics                                    ,35.00000,47.00000
+"2000                                              ",EAST,New York Knicks                                   ,50.00000,32.00000
+"2000                                              ",EAST,Washington Wizards                                ,29.00000,53.00000
+"2000                                              ",EAST,Milwaukee Bucks                                   ,42.00000,40.00000
+"2000                                              ",WEST,Sacramento Kings                                  ,44.00000,38.00000
+"2000                                              ",WEST,Golden State Warriors                             ,19.00000,63.00000
+"2000                                              ",WEST,Memphis Grizzlies                                 ,22.00000,60.00000
+"2000                                              ",WEST,San Antonio Spurs                                 ,53.00000,29.00000
+"2000                                              ",WEST,Denver Nuggets                                    ,35.00000,47.00000
+"2000                                              ",WEST,Houston Rockets                                   ,34.00000,48.00000
+"2000                                              ",WEST,Portland Trail Blazers                            ,59.00000,23.00000
+"2000                                              ",WEST,Utah Jazz                                         ,55.00000,27.00000
+"2000                                              ",WEST,Dallas Mavericks                                  ,40.00000,42.00000
+"2000                                              ",WEST,Los Angeles Lakers                                ,67.00000,15.00000
+"2000                                              ",WEST,Oklahoma City Thunder                             ,45.00000,37.00000
+"2000                                              ",WEST,Minnesota Timberwolves                            ,50.00000,32.00000
+"2000                                              ",WEST,Los Angeles Clippers                              ,15.00000,67.00000
+"2000                                              ",WEST,Phoenix Suns                                      ,53.00000,29.00000
+"2001                                              ",EAST,Boston Celtics                                    ,36.00000,46.00000
+"2001                                              ",EAST,New York Knicks                                   ,48.00000,34.00000
+"2001                                              ",EAST,Miami Heat                                        ,50.00000,32.00000
+"2001                                              ",EAST,Washington Wizards                                ,19.00000,63.00000
+"2001                                              ",EAST,Cleveland Cavaliers                               ,30.00000,52.00000
+"2001                                              ",EAST,Milwaukee Bucks                                   ,52.00000,30.00000
+"2001                                              ",EAST,Indiana Pacers                                    ,41.00000,41.00000
+"2001                                              ",EAST,Charlotte Hornets                                 ,46.00000,36.00000
+"2001                                              ",EAST,Toronto Raptors                                   ,47.00000,35.00000
+"2001                                              ",EAST,Philadelphia 76ers                                ,56.00000,26.00000
+"2001                                              ",EAST,Orlando Magic                                     ,43.00000,39.00000
+"2001                                              ",EAST,Detroit Pistons                                   ,32.00000,50.00000
+"2001                                              ",EAST,Chicago Bulls                                     ,15.00000,67.00000
+"2001                                              ",EAST,Brooklyn Nets                                     ,26.00000,56.00000
+"2001                                              ",EAST,Atlanta Hawks                                     ,25.00000,57.00000
+"2001                                              ",WEST,Dallas Mavericks                                  ,53.00000,29.00000
+"2001                                              ",WEST,San Antonio Spurs                                 ,58.00000,24.00000
+"2001                                              ",WEST,Utah Jazz                                         ,53.00000,29.00000
+"2001                                              ",WEST,Golden State Warriors                             ,17.00000,65.00000
+"2001                                              ",WEST,Minnesota Timberwolves                            ,47.00000,35.00000
+"2001                                              ",WEST,Phoenix Suns                                      ,51.00000,31.00000
+"2001                                              ",WEST,Los Angeles Clippers                              ,31.00000,51.00000
+"2001                                              ",WEST,Portland Trail Blazers                            ,50.00000,32.00000
+"2001                                              ",WEST,Memphis Grizzlies                                 ,23.00000,59.00000
+"2001                                              ",WEST,Los Angeles Lakers                                ,56.00000,26.00000
+"2001                                              ",WEST,Denver Nuggets                                    ,40.00000,42.00000
+"2001                                              ",WEST,Sacramento Kings                                  ,55.00000,27.00000
+"2001                                              ",WEST,Oklahoma City Thunder                             ,44.00000,38.00000
+"2001                                              ",WEST,Houston Rockets                                   ,45.00000,37.00000
+"2002                                              ",EAST,Milwaukee Bucks                                   ,41.00000,41.00000
+"2002                                              ",EAST,Cleveland Cavaliers                               ,29.00000,53.00000
+"2002                                              ",EAST,New York Knicks                                   ,30.00000,52.00000
+"2002                                              ",EAST,Miami Heat                                        ,36.00000,46.00000
+"2002                                              ",EAST,Charlotte Hornets                                 ,44.00000,38.00000
+"2002                                              ",EAST,Atlanta Hawks                                     ,33.00000,49.00000
+"2002                                              ",EAST,Boston Celtics                                    ,49.00000,33.00000
+"2002                                              ",EAST,Toronto Raptors                                   ,42.00000,40.00000
+"2002                                              ",EAST,Washington Wizards                                ,37.00000,45.00000
+"2002                                              ",EAST,Philadelphia 76ers                                ,43.00000,39.00000
+"2002                                              ",EAST,Orlando Magic                                     ,44.00000,38.00000
+"2002                                              ",EAST,Chicago Bulls                                     ,21.00000,61.00000
+"2002                                              ",EAST,Detroit Pistons                                   ,50.00000,32.00000
+"2002                                              ",EAST,Indiana Pacers                                    ,42.00000,40.00000
+"2002                                              ",EAST,Brooklyn Nets                                     ,52.00000,30.00000
+"2002                                              ",WEST,Golden State Warriors                             ,21.00000,61.00000
+"2002                                              ",WEST,Portland Trail Blazers                            ,49.00000,33.00000
+"2002                                              ",WEST,Phoenix Suns                                      ,36.00000,46.00000
+"2002                                              ",WEST,Los Angeles Lakers                                ,58.00000,24.00000
+"2002                                              ",WEST,Los Angeles Clippers                              ,39.00000,43.00000
+"2002                                              ",WEST,Memphis Grizzlies                                 ,23.00000,59.00000
+"2002                                              ",WEST,Minnesota Timberwolves                            ,50.00000,32.00000
+"2002                                              ",WEST,Dallas Mavericks                                  ,57.00000,25.00000
+"2002                                              ",WEST,Houston Rockets                                   ,28.00000,54.00000
+"2002                                              ",WEST,Oklahoma City Thunder                             ,45.00000,37.00000
+"2002                                              ",WEST,Sacramento Kings                                  ,61.00000,21.00000
+"2002                                              ",WEST,Utah Jazz                                         ,44.00000,38.00000
+"2002                                              ",WEST,San Antonio Spurs                                 ,58.00000,24.00000
+"2002                                              ",WEST,Denver Nuggets                                    ,27.00000,55.00000
+"2003                                              ",EAST,Toronto Raptors                                   ,24.00000,58.00000
+"2003                                              ",EAST,Brooklyn Nets                                     ,49.00000,33.00000
+"2003                                              ",EAST,Detroit Pistons                                   ,50.00000,32.00000
+"2003                                              ",EAST,Orlando Magic                                     ,42.00000,40.00000
+"2003                                              ",EAST,Milwaukee Bucks                                   ,42.00000,40.00000
+"2003                                              ",EAST,Indiana Pacers                                    ,48.00000,34.00000
+"2003                                              ",EAST,Philadelphia 76ers                                ,48.00000,34.00000
+"2003                                              ",EAST,Miami Heat                                        ,25.00000,57.00000
+"2003                                              ",EAST,Chicago Bulls                                     ,30.00000,52.00000
+"2003                                              ",EAST,New York Knicks                                   ,37.00000,45.00000
+"2003                                              ",EAST,Cleveland Cavaliers                               ,17.00000,65.00000
+"2003                                              ",EAST,Washington Wizards                                ,37.00000,45.00000
+"2003                                              ",EAST,Boston Celtics                                    ,44.00000,38.00000
+"2003                                              ",EAST,Atlanta Hawks                                     ,35.00000,47.00000
+"2003                                              ",WEST,Denver Nuggets                                    ,17.00000,65.00000
+"2003                                              ",WEST,Minnesota Timberwolves                            ,51.00000,31.00000
+"2003                                              ",WEST,Sacramento Kings                                  ,59.00000,23.00000
+"2003                                              ",WEST,San Antonio Spurs                                 ,60.00000,22.00000
+"2003                                              ",WEST,Dallas Mavericks                                  ,60.00000,22.00000
+"2003                                              ",WEST,Los Angeles Clippers                              ,27.00000,55.00000
+"2003                                              ",WEST,Utah Jazz                                         ,47.00000,35.00000
+"2003                                              ",WEST,Memphis Grizzlies                                 ,28.00000,54.00000
+"2003                                              ",WEST,Houston Rockets                                   ,43.00000,39.00000
+"2003                                              ",WEST,Golden State Warriors                             ,38.00000,44.00000
+"2003                                              ",WEST,Phoenix Suns                                      ,44.00000,38.00000
+"2003                                              ",WEST,New Orleans Pelicans                              ,47.00000,35.00000
+"2003                                              ",WEST,Oklahoma City Thunder                             ,40.00000,42.00000
+"2003                                              ",WEST,Los Angeles Lakers                                ,50.00000,32.00000
+"2003                                              ",WEST,Portland Trail Blazers                            ,50.00000,32.00000
+"2004                                              ",EAST,New York Knicks                                   ,39.00000,43.00000
+"2004                                              ",EAST,Brooklyn Nets                                     ,47.00000,35.00000
+"2004                                              ",EAST,Milwaukee Bucks                                   ,41.00000,41.00000
+"2004                                              ",EAST,Boston Celtics                                    ,36.00000,46.00000
+"2004                                              ",EAST,Toronto Raptors                                   ,33.00000,49.00000
+"2004                                              ",EAST,Atlanta Hawks                                     ,28.00000,54.00000
+"2004                                              ",EAST,Chicago Bulls                                     ,23.00000,59.00000
+"2004                                              ",EAST,Washington Wizards                                ,25.00000,57.00000
+"2004                                              ",EAST,Cleveland Cavaliers                               ,35.00000,47.00000
+"2004                                              ",EAST,Philadelphia 76ers                                ,33.00000,49.00000
+"2004                                              ",EAST,Miami Heat                                        ,42.00000,40.00000
+"2004                                              ",EAST,Orlando Magic                                     ,21.00000,61.00000
+"2004                                              ",EAST,Detroit Pistons                                   ,54.00000,28.00000
+"2004                                              ",EAST,Indiana Pacers                                    ,61.00000,21.00000
+"2004                                              ",WEST,Phoenix Suns                                      ,29.00000,53.00000
+"2004                                              ",WEST,Golden State Warriors                             ,37.00000,45.00000
+"2004                                              ",WEST,Portland Trail Blazers                            ,41.00000,41.00000
+"2004                                              ",WEST,New Orleans Pelicans                              ,41.00000,41.00000
+"2004                                              ",WEST,Sacramento Kings                                  ,55.00000,27.00000
+"2004                                              ",WEST,Houston Rockets                                   ,45.00000,37.00000
+"2004                                              ",WEST,Oklahoma City Thunder                             ,37.00000,45.00000
+"2004                                              ",WEST,Memphis Grizzlies                                 ,50.00000,32.00000
+"2004                                              ",WEST,Denver Nuggets                                    ,43.00000,39.00000
+"2004                                              ",WEST,Los Angeles Clippers                              ,28.00000,54.00000
+"2004                                              ",WEST,Utah Jazz                                         ,42.00000,40.00000
+"2004                                              ",WEST,San Antonio Spurs                                 ,57.00000,25.00000
+"2004                                              ",WEST,Los Angeles Lakers                                ,56.00000,26.00000
+"2004                                              ",WEST,Minnesota Timberwolves                            ,58.00000,24.00000
+"2004                                              ",WEST,Dallas Mavericks                                  ,52.00000,30.00000
+"2005                                              ",EAST,Miami Heat                                        ,59.00000,23.00000
+"2005                                              ",EAST,Brooklyn Nets                                     ,42.00000,40.00000
+"2005                                              ",EAST,Detroit Pistons                                   ,54.00000,28.00000
+"2005                                              ",EAST,Philadelphia 76ers                                ,43.00000,39.00000
+"2005                                              ",EAST,Cleveland Cavaliers                               ,42.00000,40.00000
+"2005                                              ",EAST,Chicago Bulls                                     ,47.00000,35.00000
+"2005                                              ",EAST,Atlanta Hawks                                     ,13.00000,69.00000
+"2005                                              ",EAST,Washington Wizards                                ,45.00000,37.00000
+"2005                                              ",EAST,New York Knicks                                   ,33.00000,49.00000
+"2005                                              ",EAST,Charlotte Hornets                                 ,18.00000,64.00000
+"2005                                              ",EAST,Orlando Magic                                     ,36.00000,46.00000
+"2005                                              ",EAST,Milwaukee Bucks                                   ,30.00000,52.00000
+"2005                                              ",EAST,Boston Celtics                                    ,45.00000,37.00000
+"2005                                              ",EAST,Toronto Raptors                                   ,33.00000,49.00000
+"2005                                              ",EAST,Indiana Pacers                                    ,44.00000,38.00000
+"2005                                              ",WEST,Memphis Grizzlies                                 ,45.00000,37.00000
+"2005                                              ",WEST,New Orleans Pelicans                              ,18.00000,64.00000
+"2005                                              ",WEST,Golden State Warriors                             ,34.00000,48.00000
+"2005                                              ",WEST,Phoenix Suns                                      ,62.00000,20.00000
+"2005                                              ",WEST,Dallas Mavericks                                  ,58.00000,24.00000
+"2005                                              ",WEST,Denver Nuggets                                    ,49.00000,33.00000
+"2005                                              ",WEST,Los Angeles Clippers                              ,37.00000,45.00000
+"2005                                              ",WEST,Utah Jazz                                         ,26.00000,56.00000
+"2005                                              ",WEST,Sacramento Kings                                  ,50.00000,32.00000
+"2005                                              ",WEST,San Antonio Spurs                                 ,59.00000,23.00000
+"2005                                              ",WEST,Los Angeles Lakers                                ,34.00000,48.00000
+"2005                                              ",WEST,Portland Trail Blazers                            ,27.00000,55.00000
+"2005                                              ",WEST,Minnesota Timberwolves                            ,44.00000,38.00000
+"2005                                              ",WEST,Houston Rockets                                   ,51.00000,31.00000
+"2005                                              ",WEST,Oklahoma City Thunder                             ,52.00000,30.00000
+"2006                                              ",EAST,Milwaukee Bucks                                   ,40.00000,42.00000
+"2006                                              ",EAST,Chicago Bulls                                     ,41.00000,41.00000
+"2006                                              ",EAST,Philadelphia 76ers                                ,38.00000,44.00000
+"2006                                              ",EAST,Cleveland Cavaliers                               ,50.00000,32.00000
+"2006                                              ",EAST,New York Knicks                                   ,23.00000,59.00000
+"2006                                              ",EAST,Atlanta Hawks                                     ,26.00000,56.00000
+"2006                                              ",EAST,Indiana Pacers                                    ,41.00000,41.00000
+"2006                                              ",EAST,Detroit Pistons                                   ,64.00000,18.00000
+"2006                                              ",EAST,Washington Wizards                                ,42.00000,40.00000
+"2006                                              ",EAST,Miami Heat                                        ,52.00000,30.00000
+"2006                                              ",EAST,Boston Celtics                                    ,33.00000,49.00000
+"2006                                              ",EAST,Orlando Magic                                     ,36.00000,46.00000
+"2006                                              ",EAST,Brooklyn Nets                                     ,49.00000,33.00000
+"2006                                              ",EAST,Charlotte Hornets                                 ,26.00000,56.00000
+"2006                                              ",EAST,Toronto Raptors                                   ,27.00000,55.00000
+"2006                                              ",WEST,Phoenix Suns                                      ,54.00000,28.00000
+"2006                                              ",WEST,New Orleans Pelicans                              ,38.00000,44.00000
+"2006                                              ",WEST,Golden State Warriors                             ,34.00000,48.00000
+"2006                                              ",WEST,Sacramento Kings                                  ,44.00000,38.00000
+"2006                                              ",WEST,Portland Trail Blazers                            ,21.00000,61.00000
+"2006                                              ",WEST,San Antonio Spurs                                 ,63.00000,19.00000
+"2006                                              ",WEST,Denver Nuggets                                    ,44.00000,38.00000
+"2006                                              ",WEST,Los Angeles Lakers                                ,45.00000,37.00000
+"2006                                              ",WEST,Minnesota Timberwolves                            ,33.00000,49.00000
+"2006                                              ",WEST,Memphis Grizzlies                                 ,49.00000,33.00000
+"2006                                              ",WEST,Houston Rockets                                   ,34.00000,48.00000
+"2006                                              ",WEST,Utah Jazz                                         ,41.00000,41.00000
+"2006                                              ",WEST,Dallas Mavericks                                  ,60.00000,22.00000
+"2006                                              ",WEST,Los Angeles Clippers                              ,47.00000,35.00000
+"2006                                              ",WEST,Oklahoma City Thunder                             ,35.00000,47.00000
+"2007                                              ",EAST,Milwaukee Bucks                                   ,28.00000,54.00000
+"2007                                              ",EAST,Indiana Pacers                                    ,35.00000,47.00000
+"2007                                              ",EAST,New York Knicks                                   ,33.00000,49.00000
+"2007                                              ",EAST,Charlotte Hornets                                 ,33.00000,49.00000
+"2007                                              ",EAST,Atlanta Hawks                                     ,30.00000,52.00000
+"2007                                              ",EAST,Boston Celtics                                    ,24.00000,58.00000
+"2007                                              ",EAST,Brooklyn Nets                                     ,41.00000,41.00000
+"2007                                              ",EAST,Miami Heat                                        ,44.00000,38.00000
+"2007                                              ",EAST,Toronto Raptors                                   ,47.00000,35.00000
+"2007                                              ",EAST,Philadelphia 76ers                                ,35.00000,47.00000
+"2007                                              ",EAST,Washington Wizards                                ,41.00000,41.00000
+"2007                                              ",EAST,Cleveland Cavaliers                               ,50.00000,32.00000
+"2007                                              ",EAST,Orlando Magic                                     ,40.00000,42.00000
+"2007                                              ",EAST,Detroit Pistons                                   ,53.00000,29.00000
+"2007                                              ",EAST,Chicago Bulls                                     ,49.00000,33.00000
+"2007                                              ",WEST,Dallas Mavericks                                  ,67.00000,15.00000
+"2007                                              ",WEST,Phoenix Suns                                      ,61.00000,21.00000
+"2007                                              ",WEST,Houston Rockets                                   ,52.00000,30.00000
+"2007                                              ",WEST,Oklahoma City Thunder                             ,31.00000,51.00000
+"2007                                              ",WEST,Los Angeles Lakers                                ,42.00000,40.00000
+"2007                                              ",WEST,Denver Nuggets                                    ,45.00000,37.00000
+"2007                                              ",WEST,Memphis Grizzlies                                 ,22.00000,60.00000
+"2007                                              ",WEST,Sacramento Kings                                  ,33.00000,49.00000
+"2007                                              ",WEST,Utah Jazz                                         ,51.00000,31.00000
+"2007                                              ",WEST,Los Angeles Clippers                              ,40.00000,42.00000
+"2007                                              ",WEST,San Antonio Spurs                                 ,58.00000,24.00000
+"2007                                              ",WEST,Minnesota Timberwolves                            ,32.00000,50.00000
+"2007                                              ",WEST,Golden State Warriors                             ,42.00000,40.00000
+"2007                                              ",WEST,Portland Trail Blazers                            ,32.00000,50.00000
+"2007                                              ",WEST,New Orleans Pelicans                              ,39.00000,43.00000
+"2008                                              ",EAST,Detroit Pistons                                   ,59.00000,23.00000
+"2008                                              ",EAST,Miami Heat                                        ,15.00000,67.00000
+"2008                                              ",EAST,New York Knicks                                   ,23.00000,59.00000
+"2008                                              ",EAST,Cleveland Cavaliers                               ,45.00000,37.00000
+"2008                                              ",EAST,Charlotte Hornets                                 ,32.00000,50.00000
+"2008                                              ",EAST,Atlanta Hawks                                     ,37.00000,45.00000
+"2008                                              ",EAST,Orlando Magic                                     ,52.00000,30.00000
+"2008                                              ",EAST,Philadelphia 76ers                                ,40.00000,42.00000
+"2008                                              ",EAST,Toronto Raptors                                   ,41.00000,41.00000
+"2008                                              ",EAST,Indiana Pacers                                    ,36.00000,46.00000
+"2008                                              ",EAST,Chicago Bulls                                     ,33.00000,49.00000
+"2008                                              ",EAST,Boston Celtics                                    ,66.00000,16.00000
+"2008                                              ",EAST,Brooklyn Nets                                     ,34.00000,48.00000
+"2008                                              ",EAST,Milwaukee Bucks                                   ,26.00000,56.00000
+"2008                                              ",EAST,Washington Wizards                                ,43.00000,39.00000
+"2008                                              ",WEST,Denver Nuggets                                    ,50.00000,32.00000
+"2008                                              ",WEST,Dallas Mavericks                                  ,51.00000,31.00000
+"2008                                              ",WEST,Sacramento Kings                                  ,38.00000,44.00000
+"2008                                              ",WEST,New Orleans Pelicans                              ,56.00000,26.00000
+"2008                                              ",WEST,Oklahoma City Thunder                             ,20.00000,62.00000
+"2008                                              ",WEST,Houston Rockets                                   ,55.00000,27.00000
+"2008                                              ",WEST,San Antonio Spurs                                 ,56.00000,26.00000
+"2008                                              ",WEST,Los Angeles Clippers                              ,23.00000,59.00000
+"2008                                              ",WEST,Minnesota Timberwolves                            ,22.00000,60.00000
+"2008                                              ",WEST,Utah Jazz                                         ,54.00000,28.00000
+"2008                                              ",WEST,Los Angeles Lakers                                ,57.00000,25.00000
+"2008                                              ",WEST,Memphis Grizzlies                                 ,22.00000,60.00000
+"2008                                              ",WEST,Golden State Warriors                             ,48.00000,34.00000
+"2008                                              ",WEST,Phoenix Suns                                      ,55.00000,27.00000
+"2008                                              ",WEST,Portland Trail Blazers                            ,41.00000,41.00000
+"2009                                              ",EAST,Detroit Pistons                                   ,39.00000,43.00000
+"2009                                              ",EAST,Washington Wizards                                ,19.00000,63.00000
+"2009                                              ",EAST,Philadelphia 76ers                                ,41.00000,41.00000
+"2009                                              ",EAST,Atlanta Hawks                                     ,47.00000,35.00000
+"2009                                              ",EAST,Milwaukee Bucks                                   ,34.00000,48.00000
+"2009                                              ",EAST,Toronto Raptors                                   ,33.00000,49.00000
+"2009                                              ",EAST,Orlando Magic                                     ,59.00000,23.00000
+"2009                                              ",EAST,Brooklyn Nets                                     ,34.00000,48.00000
+"2009                                              ",EAST,Miami Heat                                        ,43.00000,39.00000
+"2009                                              ",EAST,Cleveland Cavaliers                               ,66.00000,16.00000
+"2009                                              ",EAST,Chicago Bulls                                     ,41.00000,41.00000
+"2009                                              ",EAST,Boston Celtics                                    ,62.00000,20.00000
+"2009                                              ",EAST,Charlotte Hornets                                 ,35.00000,47.00000
+"2009                                              ",EAST,Indiana Pacers                                    ,36.00000,46.00000
+"2009                                              ",EAST,New York Knicks                                   ,32.00000,50.00000
+"2009                                              ",WEST,Los Angeles Lakers                                ,65.00000,17.00000
+"2009                                              ",WEST,Memphis Grizzlies                                 ,24.00000,58.00000
+"2009                                              ",WEST,Phoenix Suns                                      ,46.00000,36.00000
+"2009                                              ",WEST,Los Angeles Clippers                              ,19.00000,63.00000
+"2009                                              ",WEST,Denver Nuggets                                    ,54.00000,28.00000
+"2009                                              ",WEST,Portland Trail Blazers                            ,54.00000,28.00000
+"2009                                              ",WEST,Dallas Mavericks                                  ,50.00000,32.00000
+"2009                                              ",WEST,New Orleans Pelicans                              ,49.00000,33.00000
+"2009                                              ",WEST,Oklahoma City Thunder                             ,23.00000,59.00000
+"2009                                              ",WEST,Utah Jazz                                         ,48.00000,34.00000
+"2009                                              ",WEST,Houston Rockets                                   ,53.00000,29.00000
+"2009                                              ",WEST,Sacramento Kings                                  ,17.00000,65.00000
+"2009                                              ",WEST,San Antonio Spurs                                 ,54.00000,28.00000
+"2009                                              ",WEST,Golden State Warriors                             ,29.00000,53.00000
+"2009                                              ",WEST,Minnesota Timberwolves                            ,24.00000,58.00000
+"2010                                              ",EAST,Milwaukee Bucks                                   ,46.00000,36.00000
+"2010                                              ",EAST,New York Knicks                                   ,29.00000,53.00000
+"2010                                              ",EAST,Miami Heat                                        ,47.00000,35.00000
+"2010                                              ",EAST,Atlanta Hawks                                     ,53.00000,29.00000
+"2010                                              ",EAST,Philadelphia 76ers                                ,27.00000,55.00000
+"2010                                              ",EAST,Charlotte Hornets                                 ,44.00000,38.00000
+"2010                                              ",EAST,Chicago Bulls                                     ,41.00000,41.00000
+"2010                                              ",EAST,Detroit Pistons                                   ,27.00000,55.00000
+"2010                                              ",EAST,Toronto Raptors                                   ,40.00000,42.00000
+"2010                                              ",EAST,Indiana Pacers                                    ,32.00000,50.00000
+"2010                                              ",EAST,Cleveland Cavaliers                               ,61.00000,21.00000
+"2010                                              ",EAST,Brooklyn Nets                                     ,12.00000,70.00000
+"2010                                              ",EAST,Washington Wizards                                ,26.00000,56.00000
+"2010                                              ",EAST,Orlando Magic                                     ,59.00000,23.00000
+"2010                                              ",EAST,Boston Celtics                                    ,50.00000,32.00000
+"2010                                              ",WEST,Golden State Warriors                             ,26.00000,56.00000
+"2010                                              ",WEST,Minnesota Timberwolves                            ,15.00000,67.00000
+"2010                                              ",WEST,Dallas Mavericks                                  ,55.00000,27.00000
+"2010                                              ",WEST,Utah Jazz                                         ,53.00000,29.00000
+"2010                                              ",WEST,Sacramento Kings                                  ,25.00000,57.00000
+"2010                                              ",WEST,Phoenix Suns                                      ,54.00000,28.00000
+"2010                                              ",WEST,San Antonio Spurs                                 ,50.00000,32.00000
+"2010                                              ",WEST,Memphis Grizzlies                                 ,40.00000,42.00000
+"2010                                              ",WEST,Denver Nuggets                                    ,53.00000,29.00000
+"2010                                              ",WEST,Houston Rockets                                   ,42.00000,40.00000
+"2010                                              ",WEST,Portland Trail Blazers                            ,50.00000,32.00000
+"2010                                              ",WEST,Oklahoma City Thunder                             ,50.00000,32.00000
+"2010                                              ",WEST,Los Angeles Clippers                              ,29.00000,53.00000
+"2010                                              ",WEST,New Orleans Pelicans                              ,37.00000,45.00000
+"2010                                              ",WEST,Los Angeles Lakers                                ,57.00000,25.00000
+"2011                                              ",EAST,Charlotte Hornets                                 ,34.00000,48.00000
+"2011                                              ",EAST,Indiana Pacers                                    ,37.00000,45.00000
+"2011                                              ",EAST,Washington Wizards                                ,23.00000,59.00000
+"2011                                              ",EAST,Orlando Magic                                     ,52.00000,30.00000
+"2011                                              ",EAST,Boston Celtics                                    ,56.00000,26.00000
+"2011                                              ",EAST,Brooklyn Nets                                     ,24.00000,58.00000
+"2011                                              ",EAST,Cleveland Cavaliers                               ,19.00000,63.00000
+"2011                                              ",EAST,Atlanta Hawks                                     ,44.00000,38.00000
+"2011                                              ",EAST,Philadelphia 76ers                                ,41.00000,41.00000
+"2011                                              ",EAST,Toronto Raptors                                   ,22.00000,60.00000
+"2011                                              ",EAST,Miami Heat                                        ,58.00000,24.00000
+"2011                                              ",EAST,New York Knicks                                   ,42.00000,40.00000
+"2011                                              ",EAST,Detroit Pistons                                   ,30.00000,52.00000
+"2011                                              ",EAST,Chicago Bulls                                     ,62.00000,20.00000
+"2011                                              ",EAST,Milwaukee Bucks                                   ,35.00000,47.00000
+"2011                                              ",WEST,Oklahoma City Thunder                             ,55.00000,27.00000
+"2011                                              ",WEST,Los Angeles Clippers                              ,32.00000,50.00000
+"2011                                              ",WEST,Houston Rockets                                   ,43.00000,39.00000
+"2011                                              ",WEST,Phoenix Suns                                      ,40.00000,42.00000
+"2011                                              ",WEST,San Antonio Spurs                                 ,61.00000,21.00000
+"2011                                              ",WEST,Portland Trail Blazers                            ,48.00000,34.00000
+"2011                                              ",WEST,New Orleans Pelicans                              ,46.00000,36.00000
+"2011                                              ",WEST,Denver Nuggets                                    ,50.00000,32.00000
+"2011                                              ",WEST,Memphis Grizzlies                                 ,46.00000,36.00000
+"2011                                              ",WEST,Los Angeles Lakers                                ,57.00000,25.00000
+"2011                                              ",WEST,Dallas Mavericks                                  ,57.00000,25.00000
+"2011                                              ",WEST,Golden State Warriors                             ,36.00000,46.00000
+"2011                                              ",WEST,Utah Jazz                                         ,39.00000,43.00000
+"2011                                              ",WEST,Sacramento Kings                                  ,24.00000,58.00000
+"2011                                              ",WEST,Minnesota Timberwolves                            ,17.00000,65.00000
+"2012                                              ",EAST,Milwaukee Bucks                                   ,31.00000,35.00000
+"2012                                              ",EAST,Brooklyn Nets                                     ,22.00000,44.00000
+"2012                                              ",EAST,Atlanta Hawks                                     ,40.00000,26.00000
+"2012                                              ",EAST,Washington Wizards                                ,20.00000,46.00000
+"2012                                              ",EAST,Orlando Magic                                     ,37.00000,29.00000
+"2012                                              ",EAST,Cleveland Cavaliers                               ,21.00000,45.00000
+"2012                                              ",EAST,Miami Heat                                        ,46.00000,20.00000
+"2012                                              ",EAST,Toronto Raptors                                   ,23.00000,43.00000
+"2012                                              ",EAST,Chicago Bulls                                     ,50.00000,16.00000
+"2012                                              ",EAST,Detroit Pistons                                   ,25.00000,41.00000
+"2012                                              ",EAST,New York Knicks                                   ,36.00000,30.00000
+"2012                                              ",EAST,Charlotte Hornets                                 ,7.00000,59.00000
+"2012                                              ",EAST,Boston Celtics                                    ,39.00000,27.00000
+"2012                                              ",EAST,Indiana Pacers                                    ,42.00000,24.00000
+"2012                                              ",EAST,Philadelphia 76ers                                ,35.00000,31.00000
+"2012                                              ",WEST,Phoenix Suns                                      ,33.00000,33.00000
+"2012                                              ",WEST,Utah Jazz                                         ,36.00000,30.00000
+"2012                                              ",WEST,Houston Rockets                                   ,34.00000,32.00000
+"2012                                              ",WEST,San Antonio Spurs                                 ,50.00000,16.00000
+"2012                                              ",WEST,New Orleans Pelicans                              ,21.00000,45.00000
+"2012                                              ",WEST,Denver Nuggets                                    ,38.00000,28.00000
+"2012                                              ",WEST,Los Angeles Lakers                                ,41.00000,25.00000
+"2012                                              ",WEST,Memphis Grizzlies                                 ,41.00000,25.00000
+"2012                                              ",WEST,Oklahoma City Thunder                             ,47.00000,19.00000
+"2012                                              ",WEST,Dallas Mavericks                                  ,36.00000,30.00000
+"2012                                              ",WEST,Portland Trail Blazers                            ,28.00000,38.00000
+"2012                                              ",WEST,Los Angeles Clippers                              ,40.00000,26.00000
+"2012                                              ",WEST,Golden State Warriors                             ,23.00000,43.00000
+"2012                                              ",WEST,Sacramento Kings                                  ,22.00000,44.00000
+"2012                                              ",WEST,Minnesota Timberwolves                            ,26.00000,40.00000
+"2013                                              ",EAST,Cleveland Cavaliers                               ,24.00000,58.00000
+"2013                                              ",EAST,Philadelphia 76ers                                ,34.00000,48.00000
+"2013                                              ",EAST,Miami Heat                                        ,66.00000,16.00000
+"2013                                              ",EAST,Chicago Bulls                                     ,45.00000,37.00000
+"2013                                              ",EAST,Indiana Pacers                                    ,49.00000,32.00000
+"2013                                              ",EAST,New York Knicks                                   ,54.00000,28.00000
+"2013                                              ",EAST,Brooklyn Nets                                     ,49.00000,33.00000
+"2013                                              ",EAST,Washington Wizards                                ,29.00000,53.00000
+"2013                                              ",EAST,Boston Celtics                                    ,41.00000,40.00000
+"2013                                              ",EAST,Orlando Magic                                     ,20.00000,62.00000
+"2013                                              ",EAST,Atlanta Hawks                                     ,44.00000,38.00000
+"2013                                              ",EAST,Detroit Pistons                                   ,29.00000,53.00000
+"2013                                              ",EAST,Toronto Raptors                                   ,34.00000,48.00000
+"2013                                              ",EAST,Charlotte Hornets                                 ,21.00000,61.00000
+"2013                                              ",EAST,Milwaukee Bucks                                   ,38.00000,44.00000
+"2013                                              ",WEST,Utah Jazz                                         ,43.00000,39.00000
+"2013                                              ",WEST,Golden State Warriors                             ,47.00000,35.00000
+"2013                                              ",WEST,Los Angeles Clippers                              ,56.00000,26.00000
+"2013                                              ",WEST,Oklahoma City Thunder                             ,60.00000,22.00000
+"2013                                              ",WEST,Los Angeles Lakers                                ,45.00000,37.00000
+"2013                                              ",WEST,Denver Nuggets                                    ,57.00000,25.00000
+"2013                                              ",WEST,Memphis Grizzlies                                 ,56.00000,26.00000
+"2013                                              ",WEST,Sacramento Kings                                  ,28.00000,54.00000
+"2013                                              ",WEST,Houston Rockets                                   ,45.00000,37.00000
+"2013                                              ",WEST,Phoenix Suns                                      ,25.00000,57.00000
+"2013                                              ",WEST,Minnesota Timberwolves                            ,31.00000,51.00000
+"2013                                              ",WEST,Dallas Mavericks                                  ,41.00000,41.00000
+"2013                                              ",WEST,San Antonio Spurs                                 ,58.00000,24.00000
+"2013                                              ",WEST,Portland Trail Blazers                            ,33.00000,49.00000
+"2013                                              ",WEST,New Orleans Pelicans                              ,27.00000,55.00000
+"2014                                              ",EAST,Cleveland Cavaliers                               ,33.00000,49.00000
+"2014                                              ",EAST,Chicago Bulls                                     ,48.00000,34.00000
+"2014                                              ",EAST,Philadelphia 76ers                                ,19.00000,63.00000
+"2014                                              ",EAST,New York Knicks                                   ,37.00000,45.00000
+"2014                                              ",EAST,Boston Celtics                                    ,25.00000,57.00000
+"2014                                              ",EAST,Toronto Raptors                                   ,48.00000,34.00000
+"2014                                              ",EAST,Brooklyn Nets                                     ,44.00000,38.00000
+"2014                                              ",EAST,Detroit Pistons                                   ,29.00000,53.00000
+"2014                                              ",EAST,Miami Heat                                        ,54.00000,28.00000
+"2014                                              ",EAST,Washington Wizards                                ,44.00000,38.00000
+"2014                                              ",EAST,Milwaukee Bucks                                   ,15.00000,67.00000
+"2014                                              ",EAST,Orlando Magic                                     ,23.00000,59.00000
+"2014                                              ",EAST,Indiana Pacers                                    ,56.00000,26.00000
+"2014                                              ",EAST,Atlanta Hawks                                     ,38.00000,44.00000
+"2014                                              ",EAST,Charlotte Hornets                                 ,43.00000,39.00000
+"2014                                              ",WEST,Oklahoma City Thunder                             ,59.00000,23.00000
+"2014                                              ",WEST,Portland Trail Blazers                            ,54.00000,28.00000
+"2014                                              ",WEST,Utah Jazz                                         ,25.00000,57.00000
+"2014                                              ",WEST,Phoenix Suns                                      ,48.00000,34.00000
+"2014                                              ",WEST,Minnesota Timberwolves                            ,40.00000,42.00000
+"2014                                              ",WEST,Dallas Mavericks                                  ,49.00000,33.00000
+"2014                                              ",WEST,Golden State Warriors                             ,51.00000,31.00000
+"2014                                              ",WEST,Memphis Grizzlies                                 ,50.00000,32.00000
+"2014                                              ",WEST,Los Angeles Lakers                                ,27.00000,55.00000
+"2014                                              ",WEST,San Antonio Spurs                                 ,62.00000,20.00000
+"2014                                              ",WEST,Denver Nuggets                                    ,36.00000,46.00000
+"2014                                              ",WEST,Houston Rockets                                   ,54.00000,28.00000
+"2014                                              ",WEST,New Orleans Pelicans                              ,34.00000,48.00000
+"2014                                              ",WEST,Los Angeles Clippers                              ,57.00000,25.00000
+"2014                                              ",WEST,Sacramento Kings                                  ,28.00000,54.00000
+"2015                                              ",EAST,Chicago Bulls                                     ,50.00000,32.00000
+"2015                                              ",EAST,New York Knicks                                   ,17.00000,65.00000
+"2015                                              ",EAST,Brooklyn Nets                                     ,38.00000,44.00000
+"2015                                              ",EAST,Miami Heat                                        ,37.00000,45.00000
+"2015                                              ",EAST,Toronto Raptors                                   ,49.00000,33.00000
+"2015                                              ",EAST,Boston Celtics                                    ,40.00000,42.00000
+"2015                                              ",EAST,Orlando Magic                                     ,25.00000,57.00000
+"2015                                              ",EAST,Washington Wizards                                ,46.00000,36.00000
+"2015                                              ",EAST,Charlotte Hornets                                 ,33.00000,49.00000
+"2015                                              ",EAST,Philadelphia 76ers                                ,18.00000,64.00000
+"2015                                              ",EAST,Indiana Pacers                                    ,38.00000,44.00000
+"2015                                              ",EAST,Cleveland Cavaliers                               ,53.00000,29.00000
+"2015                                              ",EAST,Atlanta Hawks                                     ,60.00000,22.00000
+"2015                                              ",EAST,Detroit Pistons                                   ,32.00000,50.00000
+"2015                                              ",EAST,Milwaukee Bucks                                   ,41.00000,41.00000
+"2015                                              ",WEST,San Antonio Spurs                                 ,55.00000,27.00000
+"2015                                              ",WEST,Oklahoma City Thunder                             ,45.00000,37.00000
+"2015                                              ",WEST,Los Angeles Clippers                              ,56.00000,26.00000
+"2015                                              ",WEST,Houston Rockets                                   ,56.00000,26.00000
+"2015                                              ",WEST,Los Angeles Lakers                                ,21.00000,61.00000
+"2015                                              ",WEST,New Orleans Pelicans                              ,45.00000,37.00000
+"2015                                              ",WEST,Portland Trail Blazers                            ,51.00000,31.00000
+"2015                                              ",WEST,Dallas Mavericks                                  ,50.00000,32.00000
+"2015                                              ",WEST,Sacramento Kings                                  ,29.00000,53.00000
+"2015                                              ",WEST,Memphis Grizzlies                                 ,55.00000,27.00000
+"2015                                              ",WEST,Phoenix Suns                                      ,39.00000,43.00000
+"2015                                              ",WEST,Utah Jazz                                         ,38.00000,44.00000
+"2015                                              ",WEST,Golden State Warriors                             ,67.00000,15.00000
+"2015                                              ",WEST,Denver Nuggets                                    ,30.00000,52.00000
+"2015                                              ",WEST,Minnesota Timberwolves                            ,16.00000,66.00000
+"2016                                              ",EAST,Atlanta Hawks                                     ,48.00000,34.00000
+"2016                                              ",EAST,Washington Wizards                                ,41.00000,41.00000
+"2016                                              ",EAST,Toronto Raptors                                   ,56.00000,26.00000
+"2016                                              ",EAST,Milwaukee Bucks                                   ,33.00000,49.00000
+"2016                                              ",EAST,Cleveland Cavaliers                               ,57.00000,25.00000
+"2016                                              ",EAST,Boston Celtics                                    ,48.00000,34.00000
+"2016                                              ",EAST,Miami Heat                                        ,48.00000,34.00000
+"2016                                              ",EAST,Orlando Magic                                     ,35.00000,47.00000
+"2016                                              ",EAST,New York Knicks                                   ,32.00000,50.00000
+"2016                                              ",EAST,Detroit Pistons                                   ,44.00000,38.00000
+"2016                                              ",EAST,Indiana Pacers                                    ,45.00000,37.00000
+"2016                                              ",EAST,Philadelphia 76ers                                ,10.00000,72.00000
+"2016                                              ",EAST,Brooklyn Nets                                     ,21.00000,61.00000
+"2016                                              ",EAST,Charlotte Hornets                                 ,48.00000,34.00000
+"2016                                              ",EAST,Chicago Bulls                                     ,42.00000,40.00000
+"2016                                              ",WEST,Golden State Warriors                             ,73.00000,9.00000
+"2016                                              ",WEST,Dallas Mavericks                                  ,42.00000,40.00000
+"2016                                              ",WEST,Los Angeles Clippers                              ,53.00000,29.00000
+"2016                                              ",WEST,Memphis Grizzlies                                 ,42.00000,40.00000
+"2016                                              ",WEST,Houston Rockets                                   ,41.00000,41.00000
+"2016                                              ",WEST,Los Angeles Lakers                                ,17.00000,65.00000
+"2016                                              ",WEST,Phoenix Suns                                      ,23.00000,59.00000
+"2016                                              ",WEST,New Orleans Pelicans                              ,30.00000,52.00000
+"2016                                              ",WEST,Oklahoma City Thunder                             ,55.00000,27.00000
+"2016                                              ",WEST,San Antonio Spurs                                 ,67.00000,15.00000
+"2016                                              ",WEST,Sacramento Kings                                  ,33.00000,49.00000
+"2016                                              ",WEST,Minnesota Timberwolves                            ,29.00000,53.00000
+"2016                                              ",WEST,Denver Nuggets                                    ,33.00000,49.00000
+"2016                                              ",WEST,Utah Jazz                                         ,40.00000,42.00000
+"2016                                              ",WEST,Portland Trail Blazers                            ,44.00000,38.00000
+"2017                                              ",EAST,Charlotte Hornets                                 ,36.00000,46.00000
+"2017                                              ",EAST,Washington Wizards                                ,49.00000,33.00000
+"2017                                              ",EAST,Brooklyn Nets                                     ,20.00000,62.00000
+"2017                                              ",EAST,Orlando Magic                                     ,29.00000,53.00000
+"2017                                              ",EAST,Cleveland Cavaliers                               ,51.00000,31.00000
+"2017                                              ",EAST,Milwaukee Bucks                                   ,42.00000,40.00000
+"2017                                              ",EAST,Philadelphia 76ers                                ,28.00000,54.00000
+"2017                                              ",EAST,New York Knicks                                   ,31.00000,51.00000
+"2017                                              ",EAST,Atlanta Hawks                                     ,43.00000,39.00000
+"2017                                              ",EAST,Detroit Pistons                                   ,37.00000,45.00000
+"2017                                              ",EAST,Toronto Raptors                                   ,51.00000,31.00000
+"2017                                              ",EAST,Chicago Bulls                                     ,41.00000,41.00000
+"2017                                              ",EAST,Miami Heat                                        ,41.00000,41.00000
+"2017                                              ",EAST,Indiana Pacers                                    ,42.00000,40.00000
+"2017                                              ",EAST,Boston Celtics                                    ,53.00000,29.00000
+"2017                                              ",WEST,Golden State Warriors                             ,67.00000,15.00000
+"2017                                              ",WEST,New Orleans Pelicans                              ,34.00000,48.00000
+"2017                                              ",WEST,Los Angeles Clippers                              ,51.00000,31.00000
+"2017                                              ",WEST,Oklahoma City Thunder                             ,47.00000,35.00000
+"2017                                              ",WEST,San Antonio Spurs                                 ,61.00000,21.00000
+"2017                                              ",WEST,Utah Jazz                                         ,51.00000,31.00000
+"2017                                              ",WEST,Los Angeles Lakers                                ,26.00000,56.00000
+"2017                                              ",WEST,Dallas Mavericks                                  ,33.00000,49.00000
+"2017                                              ",WEST,Phoenix Suns                                      ,24.00000,58.00000
+"2017                                              ",WEST,Portland Trail Blazers                            ,41.00000,41.00000
+"2017                                              ",WEST,Memphis Grizzlies                                 ,43.00000,39.00000
+"2017                                              ",WEST,Minnesota Timberwolves                            ,31.00000,51.00000
+"2017                                              ",WEST,Houston Rockets                                   ,55.00000,27.00000
+"2017                                              ",WEST,Denver Nuggets                                    ,40.00000,42.00000
+"2017                                              ",WEST,Sacramento Kings                                  ,32.00000,50.00000
+"2018                                              ",EAST,Philadelphia 76ers                                ,52.00000,30.00000
+"2018                                              ",EAST,Brooklyn Nets                                     ,28.00000,54.00000
+"2018                                              ",EAST,Milwaukee Bucks                                   ,44.00000,38.00000
+"2018                                              ",EAST,Chicago Bulls                                     ,27.00000,55.00000
+"2018                                              ",EAST,Washington Wizards                                ,43.00000,39.00000
+"2018                                              ",EAST,Charlotte Hornets                                 ,36.00000,46.00000
+"2018                                              ",EAST,Toronto Raptors                                   ,59.00000,23.00000
+"2018                                              ",EAST,Indiana Pacers                                    ,48.00000,34.00000
+"2018                                              ",EAST,Atlanta Hawks                                     ,24.00000,58.00000
+"2018                                              ",EAST,Cleveland Cavaliers                               ,50.00000,32.00000
+"2018                                              ",EAST,Detroit Pistons                                   ,39.00000,43.00000
+"2018                                              ",EAST,Boston Celtics                                    ,55.00000,27.00000
+"2018                                              ",EAST,Orlando Magic                                     ,25.00000,57.00000
+"2018                                              ",EAST,Miami Heat                                        ,44.00000,38.00000
+"2018                                              ",EAST,New York Knicks                                   ,29.00000,53.00000
+"2018                                              ",WEST,Los Angeles Lakers                                ,35.00000,47.00000
+"2018                                              ",WEST,Oklahoma City Thunder                             ,48.00000,34.00000
+"2018                                              ",WEST,Minnesota Timberwolves                            ,47.00000,35.00000
+"2018                                              ",WEST,Utah Jazz                                         ,48.00000,34.00000
+"2018                                              ",WEST,Memphis Grizzlies                                 ,22.00000,60.00000
+"2018                                              ",WEST,Phoenix Suns                                      ,21.00000,61.00000
+"2018                                              ",WEST,Dallas Mavericks                                  ,24.00000,58.00000
+"2018                                              ",WEST,New Orleans Pelicans                              ,48.00000,34.00000
+"2018                                              ",WEST,Houston Rockets                                   ,65.00000,17.00000
+"2018                                              ",WEST,Denver Nuggets                                    ,46.00000,36.00000
+"2018                                              ",WEST,Sacramento Kings                                  ,27.00000,55.00000
+"2018                                              ",WEST,Los Angeles Clippers                              ,42.00000,40.00000
+"2018                                              ",WEST,Golden State Warriors                             ,58.00000,24.00000
+"2018                                              ",WEST,San Antonio Spurs                                 ,47.00000,35.00000
+"2018                                              ",WEST,Portland Trail Blazers                            ,49.00000,33.00000
+"2019                                              ",EAST,Detroit Pistons                                   ,41.00000,41.00000
+"2019                                              ",EAST,Washington Wizards                                ,32.00000,50.00000
+"2019                                              ",EAST,Indiana Pacers                                    ,48.00000,34.00000
+"2019                                              ",EAST,Atlanta Hawks                                     ,29.00000,53.00000
+"2019                                              ",EAST,Orlando Magic                                     ,42.00000,40.00000
+"2019                                              ",EAST,Toronto Raptors                                   ,58.00000,24.00000
+"2019                                              ",EAST,Cleveland Cavaliers                               ,19.00000,63.00000
+"2019                                              ",EAST,Brooklyn Nets                                     ,42.00000,40.00000
+"2019                                              ",EAST,Milwaukee Bucks                                   ,60.00000,22.00000
+"2019                                              ",EAST,Charlotte Hornets                                 ,39.00000,43.00000
+"2019                                              ",EAST,Chicago Bulls                                     ,22.00000,60.00000
+"2019                                              ",EAST,Miami Heat                                        ,39.00000,43.00000
+"2019                                              ",EAST,New York Knicks                                   ,17.00000,65.00000
+"2019                                              ",EAST,Boston Celtics                                    ,49.00000,33.00000
+"2019                                              ",EAST,Philadelphia 76ers                                ,51.00000,31.00000
+"2019                                              ",WEST,Phoenix Suns                                      ,19.00000,63.00000
+"2019                                              ",WEST,Golden State Warriors                             ,57.00000,25.00000
+"2019                                              ",WEST,Dallas Mavericks                                  ,33.00000,49.00000
+"2019                                              ",WEST,Houston Rockets                                   ,53.00000,29.00000
+"2019                                              ",WEST,Los Angeles Clippers                              ,48.00000,34.00000
+"2019                                              ",WEST,Memphis Grizzlies                                 ,33.00000,49.00000
+"2019                                              ",WEST,San Antonio Spurs                                 ,48.00000,34.00000
+"2019                                              ",WEST,New Orleans Pelicans                              ,33.00000,49.00000
+"2019                                              ",WEST,Minnesota Timberwolves                            ,36.00000,46.00000
+"2019                                              ",WEST,Utah Jazz                                         ,50.00000,32.00000
+"2019                                              ",WEST,Sacramento Kings                                  ,39.00000,43.00000
+"2019                                              ",WEST,Los Angeles Lakers                                ,37.00000,45.00000
+"2019                                              ",WEST,Portland Trail Blazers                            ,53.00000,29.00000
+"2019                                              ",WEST,Denver Nuggets                                    ,54.00000,28.00000
+"2019                                              ",WEST,Oklahoma City Thunder                             ,49.00000,33.00000
+"2020                                              ",EAST,Toronto Raptors                                   ,53.00000,19.00000
+"2020                                              ",EAST,Brooklyn Nets                                     ,35.00000,37.00000
+"2020                                              ",EAST,Milwaukee Bucks                                   ,56.00000,17.00000
+"2020                                              ",EAST,Miami Heat                                        ,44.00000,29.00000
+"2020                                              ",EAST,Atlanta Hawks                                     ,20.00000,47.00000
+"2020                                              ",EAST,Boston Celtics                                    ,48.00000,24.00000
+"2020                                              ",EAST,Philadelphia 76ers                                ,43.00000,30.00000
+"2020                                              ",EAST,Cleveland Cavaliers                               ,19.00000,46.00000
+"2020                                              ",EAST,Detroit Pistons                                   ,20.00000,46.00000
+"2020                                              ",EAST,Chicago Bulls                                     ,22.00000,43.00000
+"2020                                              ",EAST,Charlotte Hornets                                 ,23.00000,42.00000
+"2020                                              ",EAST,Washington Wizards                                ,25.00000,47.00000
+"2020                                              ",EAST,New York Knicks                                   ,21.00000,45.00000
+"2020                                              ",EAST,Orlando Magic                                     ,33.00000,40.00000
+"2020                                              ",EAST,Indiana Pacers                                    ,45.00000,28.00000
+"2020                                              ",WEST,Memphis Grizzlies                                 ,34.00000,39.00000
+"2020                                              ",WEST,Denver Nuggets                                    ,46.00000,27.00000
+"2020                                              ",WEST,Utah Jazz                                         ,44.00000,28.00000
+"2020                                              ",WEST,New Orleans Pelicans                              ,30.00000,42.00000
+"2020                                              ",WEST,Dallas Mavericks                                  ,43.00000,32.00000
+"2020                                              ",WEST,Minnesota Timberwolves                            ,19.00000,45.00000
+"2020                                              ",WEST,Phoenix Suns                                      ,34.00000,39.00000
+"2020                                              ",WEST,Sacramento Kings                                  ,31.00000,41.00000
+"2020                                              ",WEST,Golden State Warriors                             ,15.00000,50.00000
+"2020                                              ",WEST,Oklahoma City Thunder                             ,44.00000,28.00000
+"2020                                              ",WEST,Los Angeles Lakers                                ,52.00000,19.00000
+"2020                                              ",WEST,Los Angeles Clippers                              ,49.00000,23.00000
+"2020                                              ",WEST,Houston Rockets                                   ,44.00000,28.00000
+"2020                                              ",WEST,San Antonio Spurs                                 ,32.00000,39.00000
+"2020                                              ",WEST,Portland Trail Blazers                            ,35.00000,39.00000
+"2021                                              ",EAST,Boston Celtics                                    ,36.00000,36.00000
+"2021                                              ",EAST,Milwaukee Bucks                                   ,46.00000,26.00000
+"2021                                              ",EAST,Orlando Magic                                     ,21.00000,51.00000
+"2021                                              ",EAST,New York Knicks                                   ,41.00000,31.00000
+"2021                                              ",EAST,Brooklyn Nets                                     ,48.00000,24.00000
+"2021                                              ",EAST,Toronto Raptors                                   ,27.00000,45.00000
+"2021                                              ",EAST,Chicago Bulls                                     ,31.00000,41.00000
+"2021                                              ",EAST,Detroit Pistons                                   ,20.00000,52.00000
+"2021                                              ",EAST,Washington Wizards                                ,34.00000,38.00000
+"2021                                              ",EAST,Charlotte Hornets                                 ,33.00000,39.00000
+"2021                                              ",EAST,Miami Heat                                        ,40.00000,32.00000
+"2021                                              ",EAST,Indiana Pacers                                    ,34.00000,38.00000
+"2021                                              ",EAST,Atlanta Hawks                                     ,41.00000,31.00000
+"2021                                              ",EAST,Philadelphia 76ers                                ,49.00000,23.00000
+"2021                                              ",EAST,Cleveland Cavaliers                               ,22.00000,50.00000
+"2021                                              ",WEST,Oklahoma City Thunder                             ,22.00000,50.00000
+"2021                                              ",WEST,Golden State Warriors                             ,39.00000,33.00000
+"2021                                              ",WEST,Denver Nuggets                                    ,47.00000,25.00000
+"2021                                              ",WEST,Sacramento Kings                                  ,31.00000,41.00000
+"2021                                              ",WEST,San Antonio Spurs                                 ,33.00000,39.00000
+"2021                                              ",WEST,Portland Trail Blazers                            ,42.00000,30.00000
+"2021                                              ",WEST,Dallas Mavericks                                  ,42.00000,30.00000
+"2021                                              ",WEST,Houston Rockets                                   ,17.00000,55.00000
+"2021                                              ",WEST,New Orleans Pelicans                              ,31.00000,41.00000
+"2021                                              ",WEST,Memphis Grizzlies                                 ,38.00000,34.00000
+"2021                                              ",WEST,Phoenix Suns                                      ,51.00000,21.00000
+"2021                                              ",WEST,Minnesota Timberwolves                            ,23.00000,49.00000
+"2021                                              ",WEST,Los Angeles Clippers                              ,47.00000,25.00000
+"2021                                              ",WEST,Los Angeles Lakers                                ,42.00000,30.00000
+"2021                                              ",WEST,Utah Jazz                                         ,52.00000,20.00000
+"2022                                              ",EAST,Miami Heat                                        ,53.00000,29.00000
+"2022                                              ",EAST,Detroit Pistons                                   ,23.00000,59.00000
+"2022                                              ",EAST,Brooklyn Nets                                     ,44.00000,38.00000
+"2022                                              ",EAST,Orlando Magic                                     ,22.00000,60.00000
+"2022                                              ",EAST,Chicago Bulls                                     ,46.00000,36.00000
+"2022                                              ",EAST,Charlotte Hornets                                 ,43.00000,39.00000
+"2022                                              ",EAST,Boston Celtics                                    ,51.00000,31.00000
+"2022                                              ",EAST,New York Knicks                                   ,37.00000,45.00000
+"2022                                              ",EAST,Milwaukee Bucks                                   ,51.00000,31.00000
+"2022                                              ",EAST,Indiana Pacers                                    ,25.00000,57.00000
+"2022                                              ",EAST,Philadelphia 76ers                                ,51.00000,31.00000
+"2022                                              ",EAST,Cleveland Cavaliers                               ,44.00000,38.00000
+"2022                                              ",EAST,Washington Wizards                                ,35.00000,47.00000
+"2022                                              ",EAST,Toronto Raptors                                   ,48.00000,34.00000
+"2022                                              ",EAST,Atlanta Hawks                                     ,43.00000,39.00000
+"2022                                              ",WEST,Oklahoma City Thunder                             ,24.00000,58.00000
+"2022                                              ",WEST,Denver Nuggets                                    ,48.00000,34.00000
+"2022                                              ",WEST,Houston Rockets                                   ,20.00000,62.00000
+"2022                                              ",WEST,Los Angeles Lakers                                ,33.00000,49.00000
+"2022                                              ",WEST,New Orleans Pelicans                              ,36.00000,46.00000
+"2022                                              ",WEST,Utah Jazz                                         ,49.00000,33.00000
+"2022                                              ",WEST,Golden State Warriors                             ,53.00000,29.00000
+"2022                                              ",WEST,Sacramento Kings                                  ,30.00000,52.00000
+"2022                                              ",WEST,Los Angeles Clippers                              ,42.00000,40.00000
+"2022                                              ",WEST,San Antonio Spurs                                 ,34.00000,48.00000
+"2022                                              ",WEST,Memphis Grizzlies                                 ,56.00000,26.00000
+"2022                                              ",WEST,Phoenix Suns                                      ,64.00000,18.00000
+"2022                                              ",WEST,Dallas Mavericks                                  ,52.00000,30.00000
+"2022                                              ",WEST,Portland Trail Blazers                            ,27.00000,55.00000
+"2022                                              ",WEST,Minnesota Timberwolves                            ,46.00000,36.00000
